@@ -1,4 +1,4 @@
-## Alena Blahun
+# Alena Blahun
 
 ## My contact info
 
@@ -7,4 +7,27 @@
 
 ## About my
 
+I can spend a lot of time doing what interests me. My core strengths are in problem solving and fast learning
 
+## Skills
+
+* HTML
+* CSS
+* GIT/GITHUB
+
+## Code Examples
+
+```
+function multiply (f, b){
+    a*b
+}
+```
+
+## Experience
+
+[Educational project task:cssBayan](https://alena33128.github.io/cssBayan/cssBayan/)
+
+## Education
+
+* Grodno State University
+* RSSchool course "Java Script / Front-and" stge 1 (in progress)
