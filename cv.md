@@ -31,3 +31,8 @@ function multiply (f, b){
 
 * Grodno State University
 * RSSchool course "Java Script / Front-and" stge 1 (in progress)
+
+## Languages
+
+* Russian
+* English - A1 _(A2 in process)_
